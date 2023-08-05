@@ -2,7 +2,7 @@
 
 
 - 💼 Atualmente focado apenas em estudar até aprender cada vez mais.
-- 📚 Estou estudando HTML e CSS3.
+- 📚 Estou estudando HTML5 e CSS3.
 - 🧠 Programo em Python e possuo conhecimento intermediário de SQL.
 - 📌 Moro em Ribeirão Preto - SP
 ##  
