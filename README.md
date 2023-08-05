@@ -1,8 +1,9 @@
 ### Olá, mundo! 🌎
 
 
-- 💼 Atualmente focado apenas em trabalhar com Python.
-- 📚 Estou estudando Python e Oracle SQL.
+- 💼 Atualmente focado apenas em estudar até aprender cada vez mais.
+- 📚 Estou estudando HTML e CSS3.
+- 🧠 Programo em Python e possuo conhecimento intermediário de SQL.
 - 📌 Moro em Ribeirão Preto - SP
 ##  
  
