@@ -1,7 +1,7 @@
 ### Olá, mundo! 🌎
 
 
-- 💼 Atualmente focado apenas em estudar até aprender cada vez mais.
+- 💼 Atualmente focado apenas em estudar.
 - 📚 Estou estudando HTML5 e CSS3.
 - 🧠 Programo em Python e possuo conhecimento intermediário de SQL.
 - 📌 Moro em Ribeirão Preto - SP
