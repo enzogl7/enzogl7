@@ -1,8 +1,7 @@
 ### Olá, mundo! 🌎
 
 
-- 💼 Atualmente focado apenas em estudar.
-- 📚 Estou estudando Javascript.
+- 📚 Estou estudando Java e JavaScript
 - 🧠 Atualmente finalizei meu curso de HTML e CSS.
 - 📌 Moro em Ribeirão Preto - SP
 ##  
