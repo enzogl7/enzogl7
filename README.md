@@ -2,6 +2,7 @@
 
 
 - 📚 Estou estudando Java, Spring e SQL.
+- 🧠 Já concluí cursos de HTML e CSS para iniciar na programação, atualmente estou indo para o back-end.
 - 📌 Moro em Ribeirão Preto - SP
 ##  
  
