@@ -1,8 +1,7 @@
 ### Olá, mundo! 🌎
 
 
-- 📚 Estou estudando Java e JavaScript
-- 🧠 Atualmente finalizei meu curso de HTML e CSS.
+- 📚 Estou estudando Java, Spring e SQL.
 - 📌 Moro em Ribeirão Preto - SP
 ##  
  
