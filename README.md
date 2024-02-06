@@ -1,8 +1,8 @@
 ### Olá, mundo! 🌎
 
 
-- 📚 Estou estudando Java, Spring e SQL.
-- 🧠 Já concluí cursos de HTML e CSS para iniciar na programação, atualmente estou indo para o back-end.
+- 📚 Estou estudando Javascript com foco em back-end.
+- 🧠 Já concluí cursos de HTML, CSS e Spring MVC
 - 📌 Moro em Ribeirão Preto - SP
 ##  
  
