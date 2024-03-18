@@ -1,7 +1,7 @@
 ### Olá, mundo! 🌎
 
 
-- 📚 Estou estudando Java com foco no desenvolvimento de API com Spring Boot.
+- 📚 Estou estudando e trabalhando com Java focado no desenvolvimento de API com Spring Boot.
 - 📌 Moro em Ribeirão Preto - SP
 ##  
  
