@@ -1,8 +1,10 @@
 ### Olá, mundo! 🌎
 
 
-- 📚 Estou estudando Java com foco no desenvolvimento de API com Spring Boot.
+- 💼 Estiagiário na MYP7
+- 📚 Estudando JS e SQL.
 - 📌 Moro em Ribeirão Preto - SP
+- 👨‍💻 Principais tecnologias: Java e Spring Boot
 ##  
  
 
