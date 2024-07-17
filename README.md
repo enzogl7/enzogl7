@@ -4,7 +4,7 @@
 - 💼 Estiagiário na MYP7
 - 📚 Estudando JS e SQL.
 - 📌 Moro em Ribeirão Preto - SP
-- 👨‍💻 Principais tecnologias: Java e Spring Boot
+- 👨‍💻 Principais tecnologias: Java/Spring Boot
 ##  
  
 
