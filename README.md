@@ -2,7 +2,7 @@
 
 
 - 💼 Estiagiário na MYP7
-- 📚 Estudando microsserviços e Spring data.
+- 📚 Estudando microsserviços e Spring data
 - 📌 Moro em Ribeirão Preto - SP
 - 👨‍💻 Principais tecnologias: Java/Spring Boot
 ##  
