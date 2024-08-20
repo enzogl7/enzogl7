@@ -1,4 +1,4 @@
-### Olá, mundo! 🌎
+### 👋
 
 
 - 💼 Estiagiário na MYP7
