@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 
-- 💼 Estiagiário na MYP-7
+- 💼 Estagiário na MYP-7
 - 📚 Estudando microsserviços e Spring data
 - 📌 Moro em Ribeirão Preto - SP
 - 👨‍💻 Principais tecnologias: Java/Spring Boot
