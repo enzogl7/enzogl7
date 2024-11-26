@@ -4,7 +4,7 @@
 - 💼 Desenvolvedor junior na MYP-7
 - 📚 Estudando microsserviços e Spring data
 - 📌 Moro em Ribeirão Preto - SP
-- 👨‍💻 Principais tecnologias: Java/Spring Boot
+- 👨‍💻 Principais tecnologias: Java/Spring Boot/Postgresql/Front-end
 ##  
  
 
