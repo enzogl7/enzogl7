@@ -4,7 +4,7 @@
 - 💼 Desenvolvedor junior na MYP-7
 - 📚 Estudando AWS e cursando Análise e Desenvolvimento de Sistemas.
 - 📌 Ribeirão Preto - SP
-- 👨‍💻 Principais tecnologias: Java/Spring Boot/Postgresql/Front-end
+- 👨‍💻 Principais tecnologias: Java/Spring Boot/Postgresql/HTML/CSS/Java Script
 ##  
  
 
