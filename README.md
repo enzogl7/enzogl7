@@ -1,8 +1,5 @@
 <h1 align="left">Olá! 👋</h1>
 <h2 align="left">Sobre mim</h2>
-
-###
-
 <p align="left">• 🙋 Me chamo Enzo e tenho 18 anos<br>• 💼 Desenvolvedor júnior na MYP-7<br>• 📚 Estudando AWS e cursando Análise e Desenvolvimento de Sistemas.<br>• 📌 Ribeirão Preto - SP</p>
 
 ###
