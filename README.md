@@ -15,9 +15,8 @@
  <a href= "https://linkedin.com/in/enzo-lima7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" target="_blank"></a>
 </div>
 
-###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzogl7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
