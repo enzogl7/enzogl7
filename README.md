@@ -33,12 +33,11 @@
 
 ###
 
-<h2 align="left">Contato/portfólio</h2>
+<h2 align="left">Contato</h2>
 
 <div>
  <a href= "https://linkedin.com/in/enzo-lima7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" target="_blank"></a>
  <a href = "mailto:enzolima527@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://portfolio-2025-chi-blush.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
 ###
