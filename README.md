@@ -1,6 +1,6 @@
 <h1 align="left">Olá! 👋</h1>
 <h3 align="left">Sobre mim</h3>
-<p align="left">• 🙋 Me chamo Enzo<br>• 💼 Desenvolvedor full stack júnior na MYP-7<br>• 📚 Cursando Análise e Desenvolvimento de Sistemas.<br>• 📌 Ribeirão Preto - SP</p>
+<p align="left">• 🙋 Me chamo Enzo<br>• 💼 Desenvolvedor full stack pleno na VHL Sistemas 🇧🇷<br>• 📚 Cursando Análise e Desenvolvimento de Sistemas.<br>• 📌 Ribeirão Preto - SP</p>
 
 ###
 
