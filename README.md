@@ -44,8 +44,6 @@
 
 <h2 align="left">Contact</h2>
 
-### Contact
-
 <div align="left">
   <a href="https://enzolima.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Portfolio?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=333333&color=333333" alt="Portfolio" />
