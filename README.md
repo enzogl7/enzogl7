@@ -65,8 +65,3 @@ Full Stack Developer focused on Java and TypeScript. I build and evolve producti
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
 </div>
 
-### Currently Working On
-
-- Improving StatsCounter and its desktop app.
-- Studying software architecture, systems engineering, and AI agent-driven development.
-- Building and experimenting with new ideas.
