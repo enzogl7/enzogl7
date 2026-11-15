@@ -4,14 +4,14 @@
 <h3 align="left">About Me</h3>
 
 <p align="left">
-Full Stack Developer focused on Java and TypeScript. I build and evolve production applications, enterprise integrations, and independent products, with an emphasis on backend engineering, software architecture, and maintainable solutions.
+  Full Stack Developer focused on Java and TypeScript. I build and evolve production applications, enterprise integrations, and independent products, with an emphasis on backend engineering, software architecture, and maintainable solutions.
 </p>
 
 <ul>
   <li><strong>Enterprise Systems:</strong> Working on the evolution of a platform used by 280+ Real Estate Registries and 6,000+ users, developing features, integrations, and performance improvements.</li>
   <li><strong>Backend Engineering:</strong> Java, Spring Boot, REST APIs, PostgreSQL, and system integrations, with experience in production environments and code reviews.</li>
   <li><strong>Performance:</strong> Optimized critical database queries from 35–40 seconds to 2–3 seconds in a previous project.</li>
-  <li><strong>Independent Products:</strong> Building and maintaining products end to end, including StatsCounter, an open-source streaming tool with 16,000+ widgets created.</li>
+  <li><strong>Independent Products:</strong> Building and maintaining products end to end, including StatsCounter, an independent streaming tool with 16,000+ widgets created.</li>
   <li><strong>Infrastructure & DevOps:</strong> AWS, Docker, GitHub Actions, and CI/CD pipelines.</li>
   <li><strong>Education:</strong> B.Sc. in Systems Analysis and Development (in progress).</li>
 </ul>
@@ -24,14 +24,52 @@ Full Stack Developer focused on Java and TypeScript. I build and evolve producti
   <a href="https://linkedin.com/in/enzo-lima7/" target="_blank">LinkedIn</a>
 </p>
 
-###
+<h2 align="left">Side Projects</h2>
+
+<p align="left">
+  Independent products built to solve real problems, explore new ideas, and experiment with software development.
+</p>
+
+<h3>
+  <a href="https://www.statscounter.pro/" target="_blank">StatsCounter</a>
+</h3>
+
+<p>
+  A streaming tool that brings customizable statistics, counters, timers, and interactive widgets to OBS and other streaming platforms.
+  <br/><br/>
+  <a href="https://www.statscounter.pro/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit StatsCounter"/>
+  </a>
+</p>
+
+<h3>
+  <a href="https://blindspot-spoilers.vercel.app/" target="_blank">Blindspot</a>
+</h3>
+
+<p>
+  A browser extension that blocks GTA VI spoilers across social media platforms, helping users browse without unwanted spoilers.
+  <br/><br/>
+  <a href="https://blindspot-spoilers.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Blindspot"/>
+  </a>
+</p>
+
+<h3>
+  <a href="https://shelfie.page/" target="_blank">Shelfie</a>
+</h3>
+
+<p>
+  A personal book collection platform designed to organize books and keep track of reading progress.
+  <br/><br/>
+  <a href="https://shelfie.page/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Shelfie"/>
+  </a>
+</p>
 
 <h2 align="left">Tech Stack</h2>
 
-###
-
-
 <h3>Backend & Cloud</h3>
+
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
@@ -41,6 +79,7 @@ Full Stack Developer focused on Java and TypeScript. I build and evolve producti
 </div>
 
 <h3>Frontend</h3>
+
 <div align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -52,6 +91,7 @@ Full Stack Developer focused on Java and TypeScript. I build and evolve producti
 </div>
 
 <h3>DevOps & Tools</h3>
+
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
@@ -59,9 +99,9 @@ Full Stack Developer focused on Java and TypeScript. I build and evolve producti
 </div>
 
 <h3>AI</h3>
+
 <div align="left">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Anthropic%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic API" />
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
 </div>
-
