@@ -57,6 +57,16 @@
   <br/><br/>
 </p>
 
+<h2 align="left">My Reading Shelf</h2>
+
+<p align="left">
+  A collection of books I'm reading, have read, and plan to read, mostly focused on software engineering, architecture, and technology.
+  <br/><br/>
+  <a href="https://shelfie.page/enzo" target="_blank">
+    Explore my shelf on Shelfie →
+  </a>
+</p>
+
 <h2 align="left">Tech Stack</h2>
 
 <h3>Backend & Cloud</h3>
