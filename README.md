@@ -37,21 +37,6 @@
 <p>
   A streaming tool that brings customizable statistics, counters, timers, and interactive widgets to OBS and other streaming platforms.
   <br/><br/>
-  <a href="https://www.statscounter.pro/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit StatsCounter"/>
-  </a>
-</p>
-
-<h3>
-  <a href="https://blindspot-spoilers.vercel.app/" target="_blank">Blindspot</a>
-</h3>
-
-<p>
-  A browser extension that blocks GTA VI spoilers across social media platforms, helping users browse without unwanted spoilers.
-  <br/><br/>
-  <a href="https://blindspot-spoilers.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Blindspot"/>
-  </a>
 </p>
 
 <h3>
@@ -61,9 +46,15 @@
 <p>
   A personal book collection platform designed to organize books and keep track of reading progress.
   <br/><br/>
-  <a href="https://shelfie.page/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Shelfie"/>
-  </a>
+</p>
+
+<h3>
+  <a href="https://blindspot-spoilers.vercel.app/" target="_blank">Blindspot</a>
+</h3>
+
+<p>
+  A browser extension that blocks GTA VI spoilers across social media platforms, helping users browse without unwanted spoilers.
+  <br/><br/>
 </p>
 
 <h2 align="left">Tech Stack</h2>
